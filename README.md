@@ -7,7 +7,7 @@ Ejercicios capítulo 4
 1. Explica qué es una sentencia, y cómo diferenciamos las simples y las compuestas.
 
 2. Dado el siguiente programa:
-#include <iostream>
+$#include <iostream>
 using namespace std;
 int main() {
 int x = 7;
@@ -27,7 +27,8 @@ c. Indica los operadores de asignación, operadores y operandos que encuentres.
 diferentes.
 
 5. ¿Cuál será la salida de este programa?
-/#include <iostream>
+
+$#include <iostream>
 using namespace std;
 int main() {
 int x = 7;
@@ -38,7 +39,7 @@ return 0;}
 Explica además el porqué de este resultado.
 
 6. Dado el siguiente programa:
-#include <iostream>
+$#include <iostream>
 using namespace std;
 int main() {
 bool iguales = false;
@@ -58,7 +59,7 @@ b. Cómo harías que el resultado fuera iguales? 1 cambiando una sola letra.
 8. Haz un programa que pida 3 números al usuario, y nos diga si el último está entre los dos primeros.
 
 9. Dado el siguiente programa:
-#include <iostream>
+$#include <iostream>
 using namespace std;
 int main() {
 int x = 7;
@@ -87,7 +88,7 @@ return 0;
 Escribe cuál será el resultado.
 
 10. Analiza el siguiente código, escribe cual será su salida y explica porqué.
-#include <iostream>
+$#include <iostream>
 using namespace std;
 int main() {
 int x = 7;
