@@ -27,7 +27,7 @@ c. Indica los operadores de asignación, operadores y operandos que encuentres.
 diferentes.
 
 5. ¿Cuál será la salida de este programa?
-#include <iostream>
+/#include <iostream>
 using namespace std;
 int main() {
 int x = 7;
